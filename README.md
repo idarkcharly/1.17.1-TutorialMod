@@ -14,7 +14,7 @@ En el archivo build.gradle
 Para configurar el proyecto abre el CMD dentro del folder descomprimido y renombrado (MDK) y ejecuta el siguiente comando:
 
 
-### Si prefieres usar Eclipse IDE 2022 (JAVA 17):
+### Si prefieres usar Eclipse IDE 2021-03 (JAVA 16):
 ```cmd
 1) Ejecuta el siguiente comando: gradlew genEclipseRuns
 ```
